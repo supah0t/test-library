@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "minor fixes",
+  "packageName": "versioning",
+  "email": "odysseasmastorakis@hotmail.com",
+  "dependentChangeType": "patch"
+}
