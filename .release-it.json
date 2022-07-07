@@ -22,7 +22,7 @@
     "github": {
         "release": true,
         "releaseName": "Release ${version}",
-        "releaseNotes": "Notes",
+        "releaseNotes": null,
         "autoGenerate": false,
         "preRelease": false,
         "draft": false,
