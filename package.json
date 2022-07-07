@@ -9,6 +9,7 @@
         "release": "release-it",
         "change": "beachball change",
         "check": "beachball check",
+        "bump": "beachball bump",
         "beachball:publish": "beachball publish"
     },
     "dependencies": {
